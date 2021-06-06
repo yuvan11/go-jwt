@@ -28,5 +28,3 @@ Hit the refresh route, and then inspect the clients cookies to see the new value
 ```
 POST http://localhost:8000/refresh
 ```
-
-You can find the working source code for this example [here](https://github.com/sohamkamani/jwt-go-example).
